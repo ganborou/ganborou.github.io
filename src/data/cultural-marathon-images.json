@@ -1,0 +1,58 @@
+[
+  {
+    "src": "/media/projects/cultural-marathon/206-29340.jpeg",
+    "width": 1440,
+    "height": 810,
+    "alt": "Главный экран Культурного марафона на ноутбуке"
+  },
+  {
+    "src": "vimeo-cultural-marathon",
+    "width": 1440,
+    "height": 870,
+    "alt": "Аниматик главного экрана Культурного марафона",
+    "videoUrl": "https://player.vimeo.com/video/1009117995?badge=0&autopause=0&autoplay=1&loop=1",
+    "videoSandbox": "allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"
+  },
+  {
+    "src": "/media/projects/cultural-marathon/206-29347.jpeg",
+    "width": 1440,
+    "height": 1479,
+    "alt": "Пиксельные портреты классиков и адаптивные экраны проекта"
+  },
+  {
+    "src": "/media/projects/cultural-marathon/206-29342.jpeg",
+    "width": 1440,
+    "height": 810,
+    "alt": "Культурный марафон на экране в учебном классе"
+  },
+  {
+    "src": "/media/projects/cultural-marathon/206-29449.jpeg",
+    "width": 1436,
+    "height": 810,
+    "alt": "Мобильные экраны: спецпроекты, подписка и расписание"
+  },
+  {
+    "src": "/media/projects/cultural-marathon/206-42912.jpeg",
+    "width": 1440,
+    "height": 7657,
+    "alt": "Полная главная страница Культурного марафона"
+  },
+  {
+    "src": "/media/projects/cultural-marathon/206-30071.jpeg",
+    "width": 1440,
+    "height": 810,
+    "alt": "Мобильная версия проекта на смартфоне"
+  },
+  {
+    "src": "/media/projects/cultural-marathon/206-30073.jpeg",
+    "width": 1440,
+    "height": 810,
+    "alt": "Детали интерфейса: расписание и карточки спецпроектов"
+  },
+  {
+    "src": "/media/projects/cultural-marathon/206-29360.jpeg",
+    "width": 1440,
+    "height": 810,
+    "alt": "Грамота участника Культурного марафона"
+  }
+]

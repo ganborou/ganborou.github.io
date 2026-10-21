@@ -1,0 +1,112 @@
+[
+  {
+    "src": "/media/projects/digital-lesson/1.png",
+    "width": 2880,
+    "height": 1648,
+    "alt": "Тренажёр «Дело в чате» на ноутбуке в школьном классе"
+  },
+  {
+    "src": "vimeo-digital-lesson",
+    "width": 1260,
+    "height": 720,
+    "alt": "Анимация тренажёра «Дело в чате»",
+    "videoUrl": "https://player.vimeo.com/video/1192429201?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1",
+    "videoSandbox": "allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"
+  },
+  {
+    "src": "/media/projects/digital-lesson/2.png",
+    "width": 3840,
+    "height": 2348,
+    "alt": "Об «Уроке цифры» и задачах проекта: проектирование, дизайн, арт-дирекшен и авторский надзор"
+  },
+  {
+    "src": "/media/projects/digital-lesson/3.png",
+    "width": 3840,
+    "height": 1948,
+    "alt": "Проектирование образовательного тренажёра: возрастные группы, механики и сценарии"
+  },
+  {
+    "src": "/media/projects/digital-lesson/4.png",
+    "width": 3840,
+    "height": 2196,
+    "alt": "Сценарии и последовательность экранов тренажёра"
+  },
+  {
+    "src": "/media/projects/digital-lesson/5.png",
+    "width": 3840,
+    "height": 2196,
+    "alt": "Обзор макетов и состояний интерфейса"
+  },
+  {
+    "src": "/media/projects/digital-lesson/6.png",
+    "width": 3840,
+    "height": 2044,
+    "alt": "Дизайн тренажёра: экраны, персонажи и сроки работы"
+  },
+  {
+    "src": "/media/projects/digital-lesson/7.png",
+    "width": 3840,
+    "height": 3220,
+    "alt": "Экраны интерактивных заданий"
+  },
+  {
+    "src": "/media/projects/digital-lesson/8.png",
+    "width": 3840,
+    "height": 2160,
+    "alt": "UI-кит: кнопки, поля, карточки и элементы навигации"
+  },
+  {
+    "src": "/media/projects/digital-lesson/9.png",
+    "width": 3840,
+    "height": 2196,
+    "alt": "Интерактивное задание с иллюстрациями"
+  },
+  {
+    "src": "/media/projects/digital-lesson/10.png",
+    "width": 3840,
+    "height": 2196,
+    "alt": "Мобильный тренажёр на экране смартфона"
+  },
+  {
+    "src": "/media/projects/digital-lesson/11.png",
+    "width": 3840,
+    "height": 2196,
+    "alt": "Диалог и игровой интерфейс"
+  },
+  {
+    "src": "/media/projects/digital-lesson/12.png",
+    "width": 3840,
+    "height": 2196,
+    "alt": "Адаптивные экраны тренажёра"
+  },
+  {
+    "src": "/media/projects/digital-lesson/13.png",
+    "width": 3840,
+    "height": 1948,
+    "alt": "Арт-дирекшен: иллюстрации, комиксы и 3D-модели"
+  },
+  {
+    "src": "/media/projects/digital-lesson/14.png",
+    "width": 3840,
+    "height": 2196,
+    "alt": "Персонажи, иллюстрации и иконки проекта"
+  },
+  {
+    "src": "/media/projects/digital-lesson/15.png",
+    "width": 3840,
+    "height": 1294,
+    "alt": "Авторский надзор за реализацией проекта"
+  },
+  {
+    "src": "/media/projects/digital-lesson/16.png",
+    "width": 3840,
+    "height": 2196,
+    "alt": "Персонажи «Урока цифры»"
+  },
+  {
+    "src": "/media/projects/digital-lesson/17.png",
+    "width": 3840,
+    "height": 2068,
+    "alt": "Результат проекта: более 2,7 миллиона пользователей"
+  }
+]

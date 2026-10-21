@@ -20,14 +20,18 @@ export interface CaseImage {
   alt: string
   width: number
   height: number
+  videoUrl?: string
+  videoSandbox?: string
 }
 
 export interface Project {
   slug: string
   category: CategoryId
   title: string
+  displayTitle?: string
   year: string
   summary: string
   externalUrl?: string
+  externalLabel?: string
   images: CaseImage[]
 }

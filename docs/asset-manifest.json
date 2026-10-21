@@ -224,5 +224,374 @@
     "originalPublicPath": "/media/projects/volna/186-1338.jpeg",
     "sourcePath": "design-assets/media/projects/volna/186-1338.jpeg",
     "publicPath": "/media/projects/volna/186-1338.webp"
+  },
+  {
+    "nodeId": "177:3330",
+    "originalPublicPath": "/media/projects/ministry-of-culture/177-3330.jpeg",
+    "sourcePath": "design-assets/media/projects/ministry-of-culture/177-3330.jpeg",
+    "publicPath": "/media/projects/ministry-of-culture/177-3330.webp"
+  },
+  {
+    "nodeId": "351:12612",
+    "originalPublicPath": "/media/projects/ministry-of-culture/351-12612.svg",
+    "sourcePath": "design-assets/media/projects/ministry-of-culture/351-12612.svg",
+    "publicPath": "/media/projects/ministry-of-culture/351-12612.webp",
+    "renderWidth": 2880,
+    "renderHeight": 1652,
+    "lossless": true
+  },
+  {
+    "nodeId": "351:12648",
+    "originalPublicPath": "/media/projects/ministry-of-culture/351-12648.png",
+    "sourcePath": "design-assets/media/projects/ministry-of-culture/351-12648.png",
+    "publicPath": "/media/projects/ministry-of-culture/351-12648.webp",
+    "lossless": true,
+    "vectorSourcePath": "design-assets/media/projects/ministry-of-culture/351-12648.svg"
+  },
+  {
+    "nodeId": "351:13316",
+    "originalPublicPath": "/media/projects/ministry-of-culture/351-13316.svg",
+    "sourcePath": "design-assets/media/projects/ministry-of-culture/351-13316.svg",
+    "publicPath": "/media/projects/ministry-of-culture/351-13316.webp",
+    "renderWidth": 2880,
+    "renderHeight": 1918,
+    "lossless": true
+  },
+  {
+    "nodeId": "351:14312",
+    "originalPublicPath": "/media/projects/ministry-of-culture/351-14312.png",
+    "sourcePath": "design-assets/media/projects/ministry-of-culture/351-14312.png",
+    "publicPath": "/media/projects/ministry-of-culture/351-14312.webp",
+    "lossless": true,
+    "vectorSourcePath": "design-assets/media/projects/ministry-of-culture/351-14312.svg"
+  },
+  {
+    "nodeId": "351:14853",
+    "originalPublicPath": "/media/projects/ministry-of-culture/351-14853.png",
+    "sourcePath": "design-assets/media/projects/ministry-of-culture/351-14853.png",
+    "publicPath": "/media/projects/ministry-of-culture/351-14853.webp",
+    "lossless": true,
+    "vectorSourcePath": "design-assets/media/projects/ministry-of-culture/351-14853.svg"
+  },
+  {
+    "nodeId": "351:14938",
+    "originalPublicPath": "/media/projects/ministry-of-culture/351-14938.png",
+    "sourcePath": "design-assets/media/projects/ministry-of-culture/351-14938.png",
+    "publicPath": "/media/projects/ministry-of-culture/351-14938.webp",
+    "lossless": true,
+    "vectorSourcePath": "design-assets/media/projects/ministry-of-culture/351-14938.svg"
+  },
+  {
+    "nodeId": "351:15388",
+    "originalPublicPath": "/media/projects/ministry-of-culture/351-15388.png",
+    "sourcePath": "design-assets/media/projects/ministry-of-culture/351-15388.png",
+    "publicPath": "/media/projects/ministry-of-culture/351-15388.webp",
+    "lossless": true,
+    "vectorSourcePath": "design-assets/media/projects/ministry-of-culture/351-15388.svg"
+  },
+  {
+    "nodeId": "206:29340",
+    "originalPublicPath": "/media/projects/cultural-marathon/206-29340.jpeg",
+    "sourcePath": "design-assets/media/projects/cultural-marathon/206-29340.jpeg",
+    "publicPath": "/media/projects/cultural-marathon/206-29340.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "206:29347",
+    "originalPublicPath": "/media/projects/cultural-marathon/206-29347.jpeg",
+    "sourcePath": "design-assets/media/projects/cultural-marathon/206-29347.jpeg",
+    "publicPath": "/media/projects/cultural-marathon/206-29347.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "206:29342",
+    "originalPublicPath": "/media/projects/cultural-marathon/206-29342.jpeg",
+    "sourcePath": "design-assets/media/projects/cultural-marathon/206-29342.jpeg",
+    "publicPath": "/media/projects/cultural-marathon/206-29342.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "206:29449",
+    "originalPublicPath": "/media/projects/cultural-marathon/206-29449.jpeg",
+    "sourcePath": "design-assets/media/projects/cultural-marathon/206-29449.jpeg",
+    "publicPath": "/media/projects/cultural-marathon/206-29449.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "206:42912",
+    "originalPublicPath": "/media/projects/cultural-marathon/206-42912.jpeg",
+    "sourcePath": "design-assets/media/projects/cultural-marathon/206-42912.jpeg",
+    "publicPath": "/media/projects/cultural-marathon/206-42912.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "206:30071",
+    "originalPublicPath": "/media/projects/cultural-marathon/206-30071.jpeg",
+    "sourcePath": "design-assets/media/projects/cultural-marathon/206-30071.jpeg",
+    "publicPath": "/media/projects/cultural-marathon/206-30071.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "206:30073",
+    "originalPublicPath": "/media/projects/cultural-marathon/206-30073.jpeg",
+    "sourcePath": "design-assets/media/projects/cultural-marathon/206-30073.jpeg",
+    "publicPath": "/media/projects/cultural-marathon/206-30073.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "206:29360",
+    "originalPublicPath": "/media/projects/cultural-marathon/206-29360.jpeg",
+    "sourcePath": "design-assets/media/projects/cultural-marathon/206-29360.jpeg",
+    "publicPath": "/media/projects/cultural-marathon/206-29360.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/1.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/1.png",
+    "publicPath": "/media/projects/digital-lesson/1.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/2.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/2.png",
+    "publicPath": "/media/projects/digital-lesson/2.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/3.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/3.png",
+    "publicPath": "/media/projects/digital-lesson/3.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/4.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/4.png",
+    "publicPath": "/media/projects/digital-lesson/4.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/5.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/5.png",
+    "publicPath": "/media/projects/digital-lesson/5.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/6.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/6.png",
+    "publicPath": "/media/projects/digital-lesson/6.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/7.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/7.png",
+    "publicPath": "/media/projects/digital-lesson/7.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/8.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/8.png",
+    "publicPath": "/media/projects/digital-lesson/8.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/9.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/9.png",
+    "publicPath": "/media/projects/digital-lesson/9.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/10.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/10.png",
+    "publicPath": "/media/projects/digital-lesson/10.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/11.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/11.png",
+    "publicPath": "/media/projects/digital-lesson/11.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/12.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/12.png",
+    "publicPath": "/media/projects/digital-lesson/12.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/13.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/13.png",
+    "publicPath": "/media/projects/digital-lesson/13.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/14.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/14.png",
+    "publicPath": "/media/projects/digital-lesson/14.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/15.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/15.png",
+    "publicPath": "/media/projects/digital-lesson/15.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/16.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/16.png",
+    "publicPath": "/media/projects/digital-lesson/16.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/digital-lesson/17.png",
+    "sourcePath": "design-assets/media/projects/digital-lesson/17.png",
+    "publicPath": "/media/projects/digital-lesson/17.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13168",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13168.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13168.png",
+    "publicPath": "/media/projects/poster-experiments/194-13168.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13170",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13170.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13170.png",
+    "publicPath": "/media/projects/poster-experiments/194-13170.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13172",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13172.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13172.png",
+    "publicPath": "/media/projects/poster-experiments/194-13172.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13174",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13174.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13174.png",
+    "publicPath": "/media/projects/poster-experiments/194-13174.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13184",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13184.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13184.png",
+    "publicPath": "/media/projects/poster-experiments/194-13184.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13178",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13178.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13178.png",
+    "publicPath": "/media/projects/poster-experiments/194-13178.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13180",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13180.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13180.png",
+    "publicPath": "/media/projects/poster-experiments/194-13180.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13176",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13176.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13176.png",
+    "publicPath": "/media/projects/poster-experiments/194-13176.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13182",
+    "sourcePath": "design-assets/media/projects/poster-experiments/194-13182.png",
+    "originalPublicPath": "/media/projects/poster-experiments/194-13182.png",
+    "publicPath": "/media/projects/poster-experiments/194-13182.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13229",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13229.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13229.png",
+    "publicPath": "/media/projects/party-posters/194-13229.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13224",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13224.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13224.png",
+    "publicPath": "/media/projects/party-posters/194-13224.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13221",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13221.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13221.png",
+    "publicPath": "/media/projects/party-posters/194-13221.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13228",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13228.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13228.png",
+    "publicPath": "/media/projects/party-posters/194-13228.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13220",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13220.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13220.png",
+    "publicPath": "/media/projects/party-posters/194-13220.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13222",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13222.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13222.png",
+    "publicPath": "/media/projects/party-posters/194-13222.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13225",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13225.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13225.png",
+    "publicPath": "/media/projects/party-posters/194-13225.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13215",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13215.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13215.png",
+    "publicPath": "/media/projects/party-posters/194-13215.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13223",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13223.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13223.png",
+    "publicPath": "/media/projects/party-posters/194-13223.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13230",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13230.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13230.png",
+    "publicPath": "/media/projects/party-posters/194-13230.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13247",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13247.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13247.png",
+    "publicPath": "/media/projects/party-posters/194-13247.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "194:13249",
+    "sourcePath": "design-assets/media/projects/party-posters/194-13249.png",
+    "originalPublicPath": "/media/projects/party-posters/194-13249.png",
+    "publicPath": "/media/projects/party-posters/194-13249.webp",
+    "lossless": true
   }
 ]

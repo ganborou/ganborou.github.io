@@ -7,8 +7,8 @@ export const categories: Category[] = [
     id: 'special-projects', title: 'Спецпроекты',
     description: ['Спецпроекты в коллаборации с бигтех-корпорациями. Участвовала в проектах подобного типа в разных ролях: начиная со сборщика адаптивов и аниматиков, до роли арт-директора с созданием визуальной концепции и курирования работы других исполнителей.'],
     projects: [
-      { slug: 'cultural-marathon', title: 'Культурный марафон: русские классики сквозь призму современных технологий', image: media + 'special-marathon.png' },
-      { slug: 'digital-lesson', title: 'Яндекс Урок цифры: интерактивные уроки по цифровой безопасности и работе с ИИ', image: media + 'special-lesson.png' },
+      { slug: 'cultural-marathon', title: 'Культурный марафон: русские классики сквозь призму современных технологий', image: media + 'special-marathon.png', available: true },
+      { slug: 'digital-lesson', title: 'Яндекс Урок цифры: интерактивные уроки по цифровой безопасности и работе с ИИ', image: media + 'special-lesson.png', available: true },
     ],
   },
   {
@@ -18,7 +18,7 @@ export const categories: Category[] = [
       'Я полностью собрала полный объём страниц во всех необходимых разрешениях, отрисовала иллюстрации и аниматики, а также сопровождала разработку до выхода сайта в прод.',
     ],
     projects: [
-      { slug: 'ministry-of-culture', title: 'Министерство культуры Чеченской республики', image: media + 'category-web-ministry.png' },
+      { slug: 'ministry-of-culture', title: 'Министерство культуры Чеченской республики', image: media + 'category-web-ministry.png', available: true },
       { slug: 'volna', title: 'Водно-развлекательный комплекс Волна', image: media + 'category-web-volna.png', available: true },
     ],
   },
@@ -42,8 +42,8 @@ export const categories: Category[] = [
     id: 'posters', title: 'Постеры',
     description: ['В раздел включены афиши вечеринок и других мероприятий в Москве и Санкт-Петербурге, а также мои творческие эксперименты в формате постеров. В работе использовала ручные эскизы, векторные и растровые редакторы и нейросети.'],
     projects: [
-      { slug: 'poster-experiments', title: 'Эксперименты с типографикой и векторными иллюстрациями', image: media + 'posters-experiments.png' },
-      { slug: 'party-posters', title: 'Афиши вечеринок и других локальных мероприятий', image: media + 'posters-parties.png' },
+      { slug: 'poster-experiments', title: 'Эксперименты с типографикой и векторными иллюстрациями', image: media + 'posters-experiments.png', available: true },
+      { slug: 'party-posters', title: 'Афиши вечеринок и других локальных мероприятий', image: media + 'posters-parties.png', available: true },
     ],
   },
   {
