@@ -689,5 +689,75 @@
     "sourcePath": "public/media/projects/charmer/logo-white.svg",
     "originalPublicPath": "/media/projects/charmer/logo-white.svg",
     "publicPath": "/media/projects/charmer/logo-white.svg"
+  },
+  {
+    "nodeId": "395:12863",
+    "originalPublicPath": "/media/projects/digital-love/01.png",
+    "sourcePath": "design-assets/media/projects/digital-love/01.png",
+    "publicPath": "/media/projects/digital-love/01.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12866",
+    "originalPublicPath": "/media/projects/digital-love/02.png",
+    "sourcePath": "design-assets/media/projects/digital-love/02.png",
+    "publicPath": "/media/projects/digital-love/02.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12871",
+    "originalPublicPath": "/media/projects/digital-love/03.png",
+    "sourcePath": "design-assets/media/projects/digital-love/03.png",
+    "publicPath": "/media/projects/digital-love/03.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12891",
+    "originalPublicPath": "/media/projects/digital-love/04.png",
+    "sourcePath": "design-assets/media/projects/digital-love/04.png",
+    "publicPath": "/media/projects/digital-love/04.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12892",
+    "originalPublicPath": "/media/projects/digital-love/05.png",
+    "sourcePath": "design-assets/media/projects/digital-love/05.png",
+    "publicPath": "/media/projects/digital-love/05.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12903",
+    "originalPublicPath": "/media/projects/digital-love/06.png",
+    "sourcePath": "design-assets/media/projects/digital-love/06.png",
+    "publicPath": "/media/projects/digital-love/06.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12904",
+    "originalPublicPath": "/media/projects/digital-love/07.png",
+    "sourcePath": "design-assets/media/projects/digital-love/07.png",
+    "publicPath": "/media/projects/digital-love/07.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12922",
+    "originalPublicPath": "/media/projects/digital-love/08.png",
+    "sourcePath": "design-assets/media/projects/digital-love/08.png",
+    "publicPath": "/media/projects/digital-love/08.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12923",
+    "originalPublicPath": "/media/projects/digital-love/09.png",
+    "sourcePath": "design-assets/media/projects/digital-love/09.png",
+    "publicPath": "/media/projects/digital-love/09.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "395:12925",
+    "originalPublicPath": "/media/projects/digital-love/footer.png",
+    "sourcePath": "design-assets/media/projects/digital-love/footer.png",
+    "publicPath": "/media/projects/digital-love/footer.webp",
+    "lossless": true
   }
 ]

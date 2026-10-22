@@ -580,5 +580,65 @@
     "srcSet": "/media/projects/charmer/shirt-480.webp 480w, /media/projects/charmer/shirt-960.webp 960w, /media/projects/charmer/shirt-1440.webp 1440w, /media/projects/charmer/shirt-1920.webp 1920w, /media/projects/charmer/shirt-2512.webp 2512w",
     "width": 2512,
     "height": 1675
+  },
+  "/media/projects/digital-love/01.png": {
+    "src": "/media/projects/digital-love/01-1920.webp",
+    "srcSet": "/media/projects/digital-love/01-480.webp 480w, /media/projects/digital-love/01-960.webp 960w, /media/projects/digital-love/01-1440.webp 1440w, /media/projects/digital-love/01-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/02.png": {
+    "src": "/media/projects/digital-love/02-1920.webp",
+    "srcSet": "/media/projects/digital-love/02-480.webp 480w, /media/projects/digital-love/02-960.webp 960w, /media/projects/digital-love/02-1440.webp 1440w, /media/projects/digital-love/02-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/03.png": {
+    "src": "/media/projects/digital-love/03-1920.webp",
+    "srcSet": "/media/projects/digital-love/03-480.webp 480w, /media/projects/digital-love/03-960.webp 960w, /media/projects/digital-love/03-1440.webp 1440w, /media/projects/digital-love/03-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/04.png": {
+    "src": "/media/projects/digital-love/04-1920.webp",
+    "srcSet": "/media/projects/digital-love/04-480.webp 480w, /media/projects/digital-love/04-960.webp 960w, /media/projects/digital-love/04-1440.webp 1440w, /media/projects/digital-love/04-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/05.png": {
+    "src": "/media/projects/digital-love/05-1920.webp",
+    "srcSet": "/media/projects/digital-love/05-480.webp 480w, /media/projects/digital-love/05-960.webp 960w, /media/projects/digital-love/05-1440.webp 1440w, /media/projects/digital-love/05-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/06.png": {
+    "src": "/media/projects/digital-love/06-1920.webp",
+    "srcSet": "/media/projects/digital-love/06-480.webp 480w, /media/projects/digital-love/06-960.webp 960w, /media/projects/digital-love/06-1440.webp 1440w, /media/projects/digital-love/06-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/07.png": {
+    "src": "/media/projects/digital-love/07-1920.webp",
+    "srcSet": "/media/projects/digital-love/07-480.webp 480w, /media/projects/digital-love/07-960.webp 960w, /media/projects/digital-love/07-1440.webp 1440w, /media/projects/digital-love/07-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/08.png": {
+    "src": "/media/projects/digital-love/08-1920.webp",
+    "srcSet": "/media/projects/digital-love/08-480.webp 480w, /media/projects/digital-love/08-960.webp 960w, /media/projects/digital-love/08-1440.webp 1440w, /media/projects/digital-love/08-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/09.png": {
+    "src": "/media/projects/digital-love/09-1920.webp",
+    "srcSet": "/media/projects/digital-love/09-480.webp 480w, /media/projects/digital-love/09-960.webp 960w, /media/projects/digital-love/09-1440.webp 1440w, /media/projects/digital-love/09-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/digital-love/footer.png": {
+    "src": "/media/projects/digital-love/footer-1920.webp",
+    "srcSet": "/media/projects/digital-love/footer-480.webp 480w, /media/projects/digital-love/footer-960.webp 960w, /media/projects/digital-love/footer-1440.webp 1440w, /media/projects/digital-love/footer-1920.webp 1920w",
+    "width": 1920,
+    "height": 388
   }
 }

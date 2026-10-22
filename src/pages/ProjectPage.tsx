@@ -17,8 +17,8 @@ export function ProjectPage() {
     <main id="main-content" tabIndex={-1} className={`case-page case-page--${project.slug}`}>
       <div className="case-header page-container">
         <h1 className="statement case-title">{project.displayTitle ?? project.title}</h1>
-        <p className="case-summary">{project.summary}</p>
-        <p className="case-year">{project.year}</p>
+        {project.summary && <p className="case-summary">{project.summary}</p>}
+        {project.year && <p className="case-year">{project.year}</p>}
         {project.externalUrl && <a href={project.externalUrl} target="_blank" rel="noopener noreferrer" className="text-link resume-link case-external">{project.externalLabel ?? 'Смотреть сайт →'}</a>}
       </div>
       {project.slug === 'charmer' ? <CharmerGallery /> : <div className="case-gallery" aria-label="Материалы проекта">
@@ -26,7 +26,7 @@ export function ProjectPage() {
           key={image.src}
           className="case-video"
           style={{ aspectRatio: `${image.width} / ${image.height}` }}
-          title={`${project.title} — видео`}
+          title={image.alt || `${project.title} — видео`}
           src={image.videoUrl}
           sandbox={image.videoSandbox}
           width={image.width}
@@ -45,7 +45,7 @@ export function ProjectPage() {
         </div>)}
       </div>}
       <div className="page-container case-return">
-        <Link className="text-link" to={categoryPath}>{project.category === 'merch' ? '← Весь мерч' : project.category === 'posters' ? '← Все постеры' : project.category === 'special-projects' ? '← Все спецпроекты' : '← Все сайты'}</Link>
+        <Link className="text-link" to={categoryPath}>{project.category === 'animation' ? '← Вся анимация' : project.category === 'merch' ? '← Весь мерч' : project.category === 'posters' ? '← Все постеры' : project.category === 'special-projects' ? '← Все спецпроекты' : '← Все сайты'}</Link>
         <OptionalLink href={profile.contact}>Написать мне →</OptionalLink>
       </div>
     </main>

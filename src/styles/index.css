@@ -173,6 +173,17 @@
   .case-page--charmer .case-year { color: rgb(15 49 66 / .4); }
   .case-page--charmer .case-header > * { min-width: 0; }
   .case-page--charmer .case-return { flex-wrap: wrap; }
+  .case-page--digital-love .case-title { max-width: 545px; }
+  .case-page--digital-love .case-summary { white-space: pre-line; }
+  .case-page--digital-love .case-year { color: rgb(15 49 66 / .4); }
+  .case-page--digital-love .case-header > * { min-width: 0; }
+  .case-page--digital-love .case-return { flex-wrap: wrap; }
+  .case-page--animatics .case-header { height: 564px; }
+  .case-page--animatics .case-title { max-width: 545px; white-space: pre-line; }
+  .case-page--animatics .case-summary { white-space: pre-line; }
+  .case-page--animatics .case-year { color: rgb(15 49 66 / .4); }
+  .case-page--animatics .case-header > * { min-width: 0; }
+  .case-page--animatics .case-return { flex-wrap: wrap; }
   .charmer-gallery { overflow: hidden; container-type: inline-size; }
   .charmer-video-panel { aspect-ratio: 1440 / 826; background: #747474; display: grid; place-items: center; }
   .charmer-video-panel .case-video { width: 72.222222%; aspect-ratio: 2; background: #000; }
@@ -200,6 +211,12 @@
 }
 
 @media (min-width: 1200px) {
+  .case-page--animatics .case-header { padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
+  .case-page--animatics .case-summary { padding-top: 24px; margin-right: 5px; }
+  .case-page--animatics .case-year { margin-top: 0; }
+  .case-page--digital-love .case-header { height: 564px; padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
+  .case-page--digital-love .case-summary { padding-top: 24px; margin-right: 5px; }
+  .case-page--digital-love .case-year { margin-top: 0; }
   .case-page--charmer .case-header { height: 564px; padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
   .case-page--charmer .case-summary { padding-top: 24px; margin-right: 5px; }
   .case-page--charmer .case-year { margin-top: 0; }
@@ -305,6 +322,7 @@
   .category-projects { grid-template-columns: 1fr; gap: 48px; padding-top: 0; }
   .project-title { margin-top: 16px; }
   .case-header { padding-top: 48px; padding-bottom: 48px; grid-template-columns: 1fr; gap: 32px; }
+  .case-page--animatics .case-header { height: 590px; grid-template-columns: minmax(0, 1fr); }
   .case-page--ministry-of-culture .case-header { grid-template-columns: minmax(0, 1fr); }
   .case-page--cultural-marathon .case-header { grid-template-columns: minmax(0, 1fr); }
   .case-page--digital-lesson .case-header { grid-template-columns: minmax(0, 1fr); }

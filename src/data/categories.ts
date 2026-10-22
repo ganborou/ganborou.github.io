@@ -34,8 +34,8 @@ export const categories: Category[] = [
     id: 'animation', title: 'Анимация',
     description: ['Анимации, собранные как демо для разработки, а также визуальные эксперименты для более глубокого понимания принципов анимации. Все анимации выполнены в After Effects.'],
     projects: [
-      { slug: 'animatics', title: 'Демонстрационные аниматики для различных сайтов', image: media + 'animation-sites.png' },
-      { slug: 'digital-love', title: 'Визуальное исследование: как мы проживаем любовь в эру диджитал', image: media + 'animation-love.png' },
+      { slug: 'animatics', title: 'Демонстрационные аниматики для различных сайтов', image: media + 'animation-sites.png', available: true },
+      { slug: 'digital-love', title: 'Визуальное исследование: как мы проживаем любовь в эру диджитал', image: media + 'animation-love.png', available: true },
     ],
   },
   {

@@ -1,0 +1,102 @@
+[
+  {
+    "src": "vimeo-digital-love-1",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Визуальное исследование — видео 1",
+    "videoUrl": "https://player.vimeo.com/video/1157839579?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1",
+    "videoSandbox": "allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"
+  },
+  {
+    "src": "/media/projects/digital-love/01.png",
+    "width": 1440,
+    "height": 824,
+    "alt": "Введение в визуальное исследование любви в цифровую эпоху"
+  },
+  {
+    "src": "/media/projects/digital-love/02.png",
+    "width": 1440,
+    "height": 824,
+    "alt": "Иллюзия контроля"
+  },
+  {
+    "src": "/media/projects/digital-love/03.png",
+    "width": 1440,
+    "height": 823,
+    "alt": "Иллюзия выбора"
+  },
+  {
+    "src": "vimeo-digital-love-2",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Визуальное исследование — видео 2",
+    "videoUrl": "https://player.vimeo.com/video/1157840679?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1",
+    "videoSandbox": "allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"
+  },
+  {
+    "src": "/media/projects/digital-love/04.png",
+    "width": 1440,
+    "height": 824,
+    "alt": "Слова любви"
+  },
+  {
+    "src": "/media/projects/digital-love/05.png",
+    "width": 1440,
+    "height": 824,
+    "alt": "Материальные объекты любви"
+  },
+  {
+    "src": "vimeo-digital-love-3",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Визуальное исследование — видео 3",
+    "videoUrl": "https://player.vimeo.com/video/1157840754?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1",
+    "videoSandbox": "allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"
+  },
+  {
+    "src": "/media/projects/digital-love/06.png",
+    "width": 1440,
+    "height": 824,
+    "alt": "Телесная оболочка"
+  },
+  {
+    "src": "/media/projects/digital-love/07.png",
+    "width": 1440,
+    "height": 823,
+    "alt": "Виртуальный аватар"
+  },
+  {
+    "src": "vimeo-digital-love-4",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Визуальное исследование — видео 4",
+    "videoUrl": "https://player.vimeo.com/video/1157840912?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1",
+    "videoSandbox": "allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"
+  },
+  {
+    "src": "/media/projects/digital-love/08.png",
+    "width": 1440,
+    "height": 824,
+    "alt": "Биохимия любви"
+  },
+  {
+    "src": "/media/projects/digital-love/09.png",
+    "width": 1440,
+    "height": 824,
+    "alt": "Синтетическое чувство"
+  },
+  {
+    "src": "vimeo-digital-love-5",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Визуальное исследование — видео 5",
+    "videoUrl": "https://player.vimeo.com/video/1158176632?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1",
+    "videoSandbox": "allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox"
+  },
+  {
+    "src": "/media/projects/digital-love/footer.png",
+    "width": 1440,
+    "height": 291,
+    "alt": "Финальный блок визуального исследования"
+  }
+]

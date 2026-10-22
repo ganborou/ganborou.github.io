@@ -29,8 +29,8 @@ export interface Project {
   category: CategoryId
   title: string
   displayTitle?: string
-  year: string
-  summary: string
+  year?: string
+  summary?: string
   externalUrl?: string
   externalLabel?: string
   images: CaseImage[]

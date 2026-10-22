@@ -6,8 +6,31 @@ import lessonImages from './digital-lesson-images.json'
 import posterImages from './poster-experiments-images.json'
 import partyImages from './party-posters-images.json'
 import lovemachineImages from './lovemachine-images.json'
+import digitalLoveImages from './digital-love-images.json'
 
 export const projects: Project[] = [
+  {
+    slug: 'animatics', category: 'animation',
+    title: 'Коллекция аниматиков для разработки и кейсов',
+    displayTitle: 'Коллекция\nаниматиков\nдля разработки\nи кейсов',
+    year: '2024',
+    summary: 'Все\u00a0анимации выполнены в\u00a0After Effects.\nВ\u00a0кейс входят как\u00a0анимации, созданные для\u00a0демонстрации команде разработки, так\u00a0и\u00a0для\u00a0студийных кейсов, а\u00a0также личных проектов и\u00a0тестовых заданий.',
+    images: ['1009120433', '1009121789', '1009121262', '1009117995', '1009119172', '1009118455'].map((id, index) => ({
+      src: `vimeo-animatics-${id}`,
+      alt: `Демонстрационные аниматики — видео ${index + 1}`,
+      width: 1440,
+      height: 870,
+      videoUrl: `https://player.vimeo.com/video/${id}?badge=0&autopause=0&autoplay=1&loop=1`,
+      videoSandbox: 'allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox',
+    })),
+  },
+  {
+    slug: 'digital-love', category: 'animation',
+    title: 'Визуальное исследование: любовь в эру диджитал',
+    year: '2023',
+    summary: 'Исследование того, какие формы принимает любовь в\u00a0ответ на\u00a0реалии онлайн-атомизации общества и\u00a0разрушения близких связей.\nПредметы изучения парами противопоставляются друг другу как\u00a0паттерны и\u00a0явления, присущие проживанию любовного опыта.',
+    images: digitalLoveImages,
+  },
   {
     slug: 'charmer', category: 'merch',
     title: 'Иллюстрация и анимация для студии Charmer',
