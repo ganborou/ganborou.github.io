@@ -163,6 +163,36 @@
   .case-page--party-posters .case-year { color: rgb(15 49 66 / .4); }
   .case-page--party-posters .case-header > * { min-width: 0; }
   .case-page--party-posters .case-return { flex-wrap: wrap; }
+  .case-page--lovemachine .case-title { max-width: 545px; white-space: pre-line; }
+  .case-page--lovemachine .case-year { color: rgb(15 49 66 / .4); }
+  .case-page--lovemachine .case-header > * { min-width: 0; }
+  .case-page--lovemachine .case-return { flex-wrap: wrap; }
+  .case-page--lovemachine .case-gallery { overflow: hidden; }
+  .case-page--lovemachine .case-image { width: 100.244792%; margin-left: -.208333%; }
+  .case-page--charmer .case-title { max-width: 545px; white-space: pre-line; }
+  .case-page--charmer .case-year { color: rgb(15 49 66 / .4); }
+  .case-page--charmer .case-header > * { min-width: 0; }
+  .case-page--charmer .case-return { flex-wrap: wrap; }
+  .charmer-gallery { overflow: hidden; container-type: inline-size; }
+  .charmer-video-panel { aspect-ratio: 1440 / 826; background: #747474; display: grid; place-items: center; }
+  .charmer-video-panel .case-video { width: 72.222222%; aspect-ratio: 2; background: #000; }
+  .charmer-logos { aspect-ratio: 1440 / 826; background: #bababb; position: relative; }
+  .charmer-logo { position: absolute; top: 19.975787%; width: 34.444444%; aspect-ratio: 1; }
+  .charmer-logo--white { left: 14.166667%; }
+  .charmer-logo--dark { left: 51.180556%; background: #141414; }
+  /* Preserve the SVGs' intrinsic sizes; scale their presentation with the gallery. */
+  .charmer-gallery .charmer-logo img { position: absolute; left: 50%; top: 50%; width: auto; height: auto; max-width: none; transform: translate(-50%, -50%) scale(calc(100cqw / 1440px)); }
+  .charmer-logo--dark img { margin-left: -.021528cqw; }
+  .charmer-artwork { position: relative; overflow: hidden; }
+  .charmer-artwork img { position: absolute; max-width: none; object-fit: cover; }
+  .charmer-artwork--hoodie { aspect-ratio: 1440 / 960; }
+  .charmer-artwork--hoodie img { width: 100.069444%; height: 99.99125%; }
+  .charmer-artwork--typography { aspect-ratio: 1440 / 844; background: #000; }
+  .charmer-artwork--typography img { width: 102.210139%; height: 100%; left: -1.111319%; }
+  .charmer-artwork--tape { aspect-ratio: 1440 / 844; }
+  .charmer-artwork--tape img { width: 100%; height: 127.96%; left: -.208333%; top: -5.08%; }
+  .charmer-artwork--shirt { aspect-ratio: 1440 / 960; }
+  .charmer-artwork--shirt img { width: 100%; height: 100%; left: -.208333%; }
   /* Figma 205:13252 and 205:13254 correct the number on the final artwork. */
   .case-page--party-posters .case-image:last-child { position: relative; container-type: inline-size; }
   .case-page--party-posters .case-image:last-child::before { content: ''; position: absolute; left: 48.472222%; top: 8.707124%; width: 2.361111%; height: 3.034301%; background: #909090; }
@@ -170,6 +200,12 @@
 }
 
 @media (min-width: 1200px) {
+  .case-page--charmer .case-header { height: 564px; padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
+  .case-page--charmer .case-summary { padding-top: 24px; margin-right: 5px; }
+  .case-page--charmer .case-year { margin-top: 0; }
+  .case-page--lovemachine .case-header { height: 564.09px; padding-top: 96px; padding-bottom: 57.89px; grid-template-rows: 1fr auto; }
+  .case-page--lovemachine .case-summary { padding-top: 24px; margin-right: 5px; }
+  .case-page--lovemachine .case-year { margin-top: 0; }
   .case-page--party-posters .case-header { min-height: 576px; padding-top: 96px; grid-template-rows: 1fr auto; }
   .case-page--party-posters .case-summary { padding-top: 24px; margin-right: 5px; }
   .case-page--party-posters .case-year { margin-top: 0; }

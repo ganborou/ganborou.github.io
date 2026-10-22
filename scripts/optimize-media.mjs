@@ -24,7 +24,7 @@ for (const asset of assets) {
   }
   const metadata = await sharp(raster).metadata()
   const isCover = /^\/media\/projects\/[^/]+\.png$/.test(asset.originalPublicPath)
-  const isDetailedCase = /^\/media\/projects\/(volna|ministry-of-culture|cultural-marathon|digital-lesson|party-posters)\//.test(asset.originalPublicPath)
+  const isDetailedCase = /^\/media\/projects\/(volna|ministry-of-culture|cultural-marathon|digital-lesson|party-posters|lovemachine|charmer)\//.test(asset.originalPublicPath)
   const targetWidths = isCover ? [443, 886, 1329, metadata.width]
     : isDetailedCase ? [480, 960, 1440, 1920, 2880, metadata.width]
       : [480, 960, Math.min(metadata.width, 1440)]

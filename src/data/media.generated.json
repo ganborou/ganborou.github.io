@@ -508,5 +508,77 @@
     "srcSet": "/media/projects/party-posters/194-13249-480.webp 480w, /media/projects/party-posters/194-13249-960.webp 960w, /media/projects/party-posters/194-13249-1440.webp 1440w, /media/projects/party-posters/194-13249-1920.webp 1920w",
     "width": 1920,
     "height": 1011
+  },
+  "/media/projects/lovemachine/211-59724.png": {
+    "src": "/media/projects/lovemachine/211-59724-1920.webp",
+    "srcSet": "/media/projects/lovemachine/211-59724-480.webp 480w, /media/projects/lovemachine/211-59724-960.webp 960w, /media/projects/lovemachine/211-59724-1440.webp 1440w, /media/projects/lovemachine/211-59724-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/lovemachine/211-59725.png": {
+    "src": "/media/projects/lovemachine/211-59725-1920.webp",
+    "srcSet": "/media/projects/lovemachine/211-59725-480.webp 480w, /media/projects/lovemachine/211-59725-960.webp 960w, /media/projects/lovemachine/211-59725-1440.webp 1440w, /media/projects/lovemachine/211-59725-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/lovemachine/211-59726.png": {
+    "src": "/media/projects/lovemachine/211-59726-1920.webp",
+    "srcSet": "/media/projects/lovemachine/211-59726-480.webp 480w, /media/projects/lovemachine/211-59726-960.webp 960w, /media/projects/lovemachine/211-59726-1440.webp 1440w, /media/projects/lovemachine/211-59726-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/lovemachine/211-59727.png": {
+    "src": "/media/projects/lovemachine/211-59727-1920.webp",
+    "srcSet": "/media/projects/lovemachine/211-59727-480.webp 480w, /media/projects/lovemachine/211-59727-960.webp 960w, /media/projects/lovemachine/211-59727-1440.webp 1440w, /media/projects/lovemachine/211-59727-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/lovemachine/211-59728.png": {
+    "src": "/media/projects/lovemachine/211-59728-1920.webp",
+    "srcSet": "/media/projects/lovemachine/211-59728-480.webp 480w, /media/projects/lovemachine/211-59728-960.webp 960w, /media/projects/lovemachine/211-59728-1440.webp 1440w, /media/projects/lovemachine/211-59728-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/lovemachine/211-59729.png": {
+    "src": "/media/projects/lovemachine/211-59729-1920.webp",
+    "srcSet": "/media/projects/lovemachine/211-59729-480.webp 480w, /media/projects/lovemachine/211-59729-960.webp 960w, /media/projects/lovemachine/211-59729-1440.webp 1440w, /media/projects/lovemachine/211-59729-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/lovemachine/211-59730.png": {
+    "src": "/media/projects/lovemachine/211-59730-1920.webp",
+    "srcSet": "/media/projects/lovemachine/211-59730-480.webp 480w, /media/projects/lovemachine/211-59730-960.webp 960w, /media/projects/lovemachine/211-59730-1440.webp 1440w, /media/projects/lovemachine/211-59730-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/lovemachine/211-59731.png": {
+    "src": "/media/projects/lovemachine/211-59731-1920.webp",
+    "srcSet": "/media/projects/lovemachine/211-59731-480.webp 480w, /media/projects/lovemachine/211-59731-960.webp 960w, /media/projects/lovemachine/211-59731-1440.webp 1440w, /media/projects/lovemachine/211-59731-1920.webp 1920w",
+    "width": 1920,
+    "height": 1098
+  },
+  "/media/projects/charmer/hoodie.png": {
+    "src": "/media/projects/charmer/hoodie-1920.webp",
+    "srcSet": "/media/projects/charmer/hoodie-480.webp 480w, /media/projects/charmer/hoodie-960.webp 960w, /media/projects/charmer/hoodie-1440.webp 1440w, /media/projects/charmer/hoodie-1920.webp 1920w",
+    "width": 1920,
+    "height": 1279
+  },
+  "/media/projects/charmer/typography.png": {
+    "src": "/media/projects/charmer/typography-1920.webp",
+    "srcSet": "/media/projects/charmer/typography-480.webp 480w, /media/projects/charmer/typography-960.webp 960w, /media/projects/charmer/typography-1440.webp 1440w, /media/projects/charmer/typography-1920.webp 1920w",
+    "width": 1920,
+    "height": 1101
+  },
+  "/media/projects/charmer/tape.png": {
+    "src": "/media/projects/charmer/tape-4096.webp",
+    "srcSet": "/media/projects/charmer/tape-480.webp 480w, /media/projects/charmer/tape-960.webp 960w, /media/projects/charmer/tape-1440.webp 1440w, /media/projects/charmer/tape-1920.webp 1920w, /media/projects/charmer/tape-2880.webp 2880w, /media/projects/charmer/tape-4096.webp 4096w",
+    "width": 4096,
+    "height": 3072
+  },
+  "/media/projects/charmer/shirt.png": {
+    "src": "/media/projects/charmer/shirt-2512.webp",
+    "srcSet": "/media/projects/charmer/shirt-480.webp 480w, /media/projects/charmer/shirt-960.webp 960w, /media/projects/charmer/shirt-1440.webp 1440w, /media/projects/charmer/shirt-1920.webp 1920w, /media/projects/charmer/shirt-2512.webp 2512w",
+    "width": 2512,
+    "height": 1675
   }
 }

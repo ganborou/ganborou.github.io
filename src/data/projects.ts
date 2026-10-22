@@ -5,8 +5,25 @@ import marathonImages from './cultural-marathon-images.json'
 import lessonImages from './digital-lesson-images.json'
 import posterImages from './poster-experiments-images.json'
 import partyImages from './party-posters-images.json'
+import lovemachineImages from './lovemachine-images.json'
 
 export const projects: Project[] = [
+  {
+    slug: 'charmer', category: 'merch',
+    title: 'Иллюстрация и анимация для студии Charmer',
+    displayTitle: 'Иллюстрация\nи анимация для студии Charmer',
+    year: '2023',
+    summary: 'Векторная типографика и анимация, разработанные для презентации стенда студии Charmer на конференции Letsdefine в Барселоне.',
+    images: [],
+  },
+  {
+    slug: 'lovemachine', category: 'merch',
+    title: 'Иллюстрации для вечеринки Lovemachine',
+    displayTitle: 'Иллюстрации\nдля вечеринки Lovemachine',
+    year: '2022',
+    summary: 'Иллюстрации и концепты мерча разработанные для серии вечеринок Lovemachine, проходящих в Санкт-Петербурге и Москве. Сотрудничество продолжается до сих пор — в формате разработки афиш и мерча.',
+    images: lovemachineImages,
+  },
   {
     slug: 'party-posters', category: 'posters',
     title: 'Афиши к вечеринкам и рейвам',

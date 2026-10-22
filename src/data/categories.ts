@@ -50,8 +50,8 @@ export const categories: Category[] = [
     id: 'merch', title: 'Мерч',
     description: ['Принты, иллюстрации и анимации, созданные для оформления мерча и сопутствующей сувенирной продукции.'],
     projects: [
-      { slug: 'lovemachine', title: 'Иллюстрации и мерч для вечеринки Lovemachine', image: media + 'merch-lovemachine.png' },
-      { slug: 'charmer', title: 'Dark side of Charmer: кастомная типографика и анимация', image: media + 'merch-charmer.png' },
+      { slug: 'lovemachine', title: 'Иллюстрации и мерч для вечеринки Lovemachine', image: media + 'merch-lovemachine.png', available: true },
+      { slug: 'charmer', title: 'Dark side of Charmer: кастомная типографика и анимация', image: media + 'merch-charmer.png', available: true },
     ],
   },
 ]

@@ -4,6 +4,7 @@ import { projects } from '../data/projects'
 import { profile } from '../data/profile'
 import { NotFoundPage } from './NotFoundPage'
 import { PortfolioImage } from '../components/PortfolioImage'
+import { CharmerGallery } from '../components/CharmerGallery'
 
 export function ProjectPage() {
   const { slug } = useParams()
@@ -20,7 +21,7 @@ export function ProjectPage() {
         <p className="case-year">{project.year}</p>
         {project.externalUrl && <a href={project.externalUrl} target="_blank" rel="noopener noreferrer" className="text-link resume-link case-external">{project.externalLabel ?? 'Смотреть сайт →'}</a>}
       </div>
-      <div className="case-gallery" aria-label="Материалы проекта">
+      {project.slug === 'charmer' ? <CharmerGallery /> : <div className="case-gallery" aria-label="Материалы проекта">
         {project.images.map((image, index) => image.videoUrl ? <iframe
           key={image.src}
           className="case-video"
@@ -42,9 +43,9 @@ export function ProjectPage() {
             loading={index === 0 ? 'eager' : 'lazy'} decoding="async"
           />
         </div>)}
-      </div>
+      </div>}
       <div className="page-container case-return">
-        <Link className="text-link" to={categoryPath}>{project.category === 'posters' ? '← Все постеры' : project.category === 'special-projects' ? '← Все спецпроекты' : '← Все сайты'}</Link>
+        <Link className="text-link" to={categoryPath}>{project.category === 'merch' ? '← Весь мерч' : project.category === 'posters' ? '← Все постеры' : project.category === 'special-projects' ? '← Все спецпроекты' : '← Все сайты'}</Link>
         <OptionalLink href={profile.contact}>Написать мне →</OptionalLink>
       </div>
     </main>

@@ -593,5 +593,101 @@
     "originalPublicPath": "/media/projects/party-posters/194-13249.png",
     "publicPath": "/media/projects/party-posters/194-13249.webp",
     "lossless": true
+  },
+  {
+    "nodeId": "211:59724",
+    "sourcePath": "design-assets/media/projects/lovemachine/211-59724.png",
+    "originalPublicPath": "/media/projects/lovemachine/211-59724.png",
+    "publicPath": "/media/projects/lovemachine/211-59724.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "211:59725",
+    "sourcePath": "design-assets/media/projects/lovemachine/211-59725.png",
+    "originalPublicPath": "/media/projects/lovemachine/211-59725.png",
+    "publicPath": "/media/projects/lovemachine/211-59725.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "211:59726",
+    "sourcePath": "design-assets/media/projects/lovemachine/211-59726.png",
+    "originalPublicPath": "/media/projects/lovemachine/211-59726.png",
+    "publicPath": "/media/projects/lovemachine/211-59726.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "211:59727",
+    "sourcePath": "design-assets/media/projects/lovemachine/211-59727.png",
+    "originalPublicPath": "/media/projects/lovemachine/211-59727.png",
+    "publicPath": "/media/projects/lovemachine/211-59727.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "211:59728",
+    "sourcePath": "design-assets/media/projects/lovemachine/211-59728.png",
+    "originalPublicPath": "/media/projects/lovemachine/211-59728.png",
+    "publicPath": "/media/projects/lovemachine/211-59728.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "211:59729",
+    "sourcePath": "design-assets/media/projects/lovemachine/211-59729.png",
+    "originalPublicPath": "/media/projects/lovemachine/211-59729.png",
+    "publicPath": "/media/projects/lovemachine/211-59729.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "211:59730",
+    "sourcePath": "design-assets/media/projects/lovemachine/211-59730.png",
+    "originalPublicPath": "/media/projects/lovemachine/211-59730.png",
+    "publicPath": "/media/projects/lovemachine/211-59730.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "211:59731",
+    "sourcePath": "design-assets/media/projects/lovemachine/211-59731.png",
+    "originalPublicPath": "/media/projects/lovemachine/211-59731.png",
+    "publicPath": "/media/projects/lovemachine/211-59731.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:59734",
+    "sourcePath": "design-assets/media/projects/charmer/hoodie.png",
+    "originalPublicPath": "/media/projects/charmer/hoodie.png",
+    "publicPath": "/media/projects/charmer/hoodie.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:59736",
+    "sourcePath": "design-assets/media/projects/charmer/typography.png",
+    "originalPublicPath": "/media/projects/charmer/typography.png",
+    "publicPath": "/media/projects/charmer/typography.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:59841",
+    "sourcePath": "design-assets/media/projects/charmer/tape.png",
+    "originalPublicPath": "/media/projects/charmer/tape.png",
+    "publicPath": "/media/projects/charmer/tape.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:59737",
+    "sourcePath": "design-assets/media/projects/charmer/shirt.png",
+    "originalPublicPath": "/media/projects/charmer/shirt.png",
+    "publicPath": "/media/projects/charmer/shirt.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:59784",
+    "sourcePath": "public/media/projects/charmer/logo-dark.svg",
+    "originalPublicPath": "/media/projects/charmer/logo-dark.svg",
+    "publicPath": "/media/projects/charmer/logo-dark.svg"
+  },
+  {
+    "nodeId": "212:59836",
+    "sourcePath": "public/media/projects/charmer/logo-white.svg",
+    "originalPublicPath": "/media/projects/charmer/logo-white.svg",
+    "publicPath": "/media/projects/charmer/logo-white.svg"
   }
 ]
