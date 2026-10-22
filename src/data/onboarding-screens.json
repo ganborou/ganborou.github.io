@@ -1,0 +1,303 @@
+[
+  {
+    "number": 1,
+    "nodeId": "402:13144",
+    "width": 1440,
+    "height": 808.5,
+    "src": "/media/projects/onboarding/screen-01.png",
+    "alt": "Игровые онбординги — экран 1"
+  },
+  {
+    "number": 2,
+    "nodeId": "402:13146",
+    "width": 1440,
+    "height": 915,
+    "src": "/media/projects/onboarding/screen-02.png",
+    "alt": "Игровые онбординги — экран 2"
+  },
+  {
+    "number": 3,
+    "nodeId": "402:13148",
+    "width": 1440,
+    "height": 1087.5,
+    "src": "/media/projects/onboarding/screen-03.png",
+    "alt": "Игровые онбординги — экран 3"
+  },
+  {
+    "number": 4,
+    "nodeId": "402:13150",
+    "width": 1440,
+    "height": 1387.5,
+    "src": "/media/projects/onboarding/screen-04.png",
+    "alt": "Игровые онбординги — экран 4"
+  },
+  {
+    "number": 5,
+    "nodeId": "402:13152",
+    "width": 1440,
+    "height": 1085.5,
+    "src": "/media/projects/onboarding/screen-05.png",
+    "alt": "Игровые онбординги — экран 5"
+  },
+  {
+    "number": 6,
+    "nodeId": "402:13154",
+    "width": 1440,
+    "height": 1065,
+    "src": "/media/projects/onboarding/screen-06.png",
+    "alt": "Игровые онбординги — экран 6"
+  },
+  {
+    "number": 7,
+    "nodeId": "402:13156",
+    "width": 1440,
+    "height": 973,
+    "src": "/media/projects/onboarding/screen-07.png",
+    "alt": "Игровые онбординги — экран 7"
+  },
+  {
+    "number": 8,
+    "nodeId": "402:13158",
+    "width": 1440,
+    "height": 799,
+    "src": "/media/projects/onboarding/screen-08.png",
+    "alt": "Игровые онбординги — экран 8"
+  },
+  {
+    "number": 9,
+    "nodeId": "402:13194",
+    "width": 1440,
+    "height": 799,
+    "src": "/media/projects/onboarding/screen-09.png",
+    "alt": "Игровые онбординги — экран 9"
+  },
+  {
+    "number": 10,
+    "nodeId": "212:60972",
+    "width": 1440,
+    "height": 798.75,
+    "title": "Ловец",
+    "description": "Подарки выпадают с верхней границы экрана  и исчезают при верном тапе. Тап по подарку привязан к смене числа в нижнем счетчике. По итогам ловли юзер получает доступ к Витрине. ",
+    "background": "#e7ebf4",
+    "labelY": 64.5,
+    "titleY": 107.25,
+    "titleHeight": 53.25,
+    "descriptionY": 63.75,
+    "phones": [
+      {
+        "nodeId": "212:60977",
+        "src": "/media/projects/onboarding/phone-212-60977.png",
+        "alt": "Ловец — Start",
+        "x": 348.74853515625,
+        "y": 244.5,
+        "width": 226.1982879638672,
+        "height": 489.79473876953125
+      },
+      {
+        "nodeId": "212:61021",
+        "src": "/media/projects/onboarding/phone-212-61021.png",
+        "alt": "Ловец — Counter",
+        "x": 606.59912109375,
+        "y": 244.5,
+        "width": 226.1982879638672,
+        "height": 489.79473876953125
+      },
+      {
+        "nodeId": "212:60999",
+        "src": "/media/projects/onboarding/phone-212-60999.jpeg",
+        "alt": "Ловец — Catch",
+        "x": 864.451171875,
+        "y": 244.5,
+        "width": 226.1982879638672,
+        "height": 489.79473876953125
+      },
+      {
+        "nodeId": "212:61012",
+        "src": "/media/projects/onboarding/phone-212-61012.png",
+        "alt": "Ловец — Success",
+        "x": 1122.3017578125,
+        "y": 244.5,
+        "width": 226.1982879638672,
+        "height": 489.79473876953125
+      }
+    ],
+    "video": {
+      "nodeId": "212:60976",
+      "src": null,
+      "poster": "/media/projects/onboarding/catcher-poster.png",
+      "x": 91.5,
+      "y": 244.5,
+      "width": 225.59510803222656,
+      "height": 489.7947692871094
+    }
+  },
+  {
+    "number": 11,
+    "nodeId": "212:61027",
+    "width": 1440,
+    "height": 798,
+    "title": "Автомат",
+    "description": "Имитация игрового автомата, нативно знакомая не только по визуальной метафоре, но и по механике «вечной» ленты в соцсетях. По итогу трёх прокруток пользователь гарантированно получает доступ к витрине.",
+    "background": "#ffffff",
+    "labelY": 64.5,
+    "titleY": 107.25,
+    "titleHeight": 49.5,
+    "descriptionY": 63.75,
+    "phones": [
+      {
+        "nodeId": "212:61031",
+        "src": "/media/projects/onboarding/phone-212-61031.png",
+        "alt": "Автомат — Start",
+        "x": 304.91162109375,
+        "y": 329.25,
+        "width": 187.1433868408203,
+        "height": 405.22784423828125
+      },
+      {
+        "nodeId": "212:61044",
+        "src": "/media/projects/onboarding/phone-212-61044.png",
+        "alt": "Автомат — 12",
+        "x": 518.95751953125,
+        "y": 329.25,
+        "width": 187.1433868408203,
+        "height": 405.22784423828125
+      },
+      {
+        "nodeId": "212:61080",
+        "src": "/media/projects/onboarding/phone-212-61080.png",
+        "alt": "Автомат — 13",
+        "x": 733.0048828125,
+        "y": 329.25,
+        "width": 187.1433868408203,
+        "height": 405.22784423828125
+      },
+      {
+        "nodeId": "212:61116",
+        "src": "/media/projects/onboarding/phone-212-61116.png",
+        "alt": "Автомат — 15",
+        "x": 947.31005859375,
+        "y": 329.25,
+        "width": 187.1433868408203,
+        "height": 405.22784423828125
+      },
+      {
+        "nodeId": "212:61035",
+        "src": "/media/projects/onboarding/phone-212-61035.png",
+        "alt": "Автомат — Success",
+        "x": 1161.357421875,
+        "y": 329.25,
+        "width": 187.1433868408203,
+        "height": 405.22784423828125
+      }
+    ],
+    "video": {
+      "nodeId": "212:61152",
+      "src": null,
+      "poster": "/media/projects/onboarding/slot-poster.png",
+      "x": 91.5,
+      "y": 329.25,
+      "width": 186.64437866210938,
+      "height": 405.2278747558594
+    }
+  },
+  {
+    "number": 12,
+    "nodeId": "212:61153",
+    "width": 1440,
+    "height": 798.75,
+    "title": "Башня",
+    "description": "Пользователю нужно строить башню из разноцветных подарков, каждый из которых двигается по горизонтальной оси между границами экрана. По достижению башней верхней границы экрана пользователь получает доступ к витрине.",
+    "background": "#e1f9b8",
+    "labelY": 57.75,
+    "titleY": 100.5,
+    "titleHeight": 51.75,
+    "descriptionY": 57,
+    "phones": [
+      {
+        "nodeId": "212:61154",
+        "src": "/media/projects/onboarding/phone-212-61154.png",
+        "alt": "Башня — Start",
+        "x": 348.75,
+        "y": 240.75,
+        "width": 227.5011749267578,
+        "height": 492.6158752441406
+      },
+      {
+        "nodeId": "212:61232",
+        "src": "/media/projects/onboarding/phone-212-61232.png",
+        "alt": "Башня — Counter",
+        "x": 606,
+        "y": 242.25,
+        "width": 227.5011749267578,
+        "height": 492.6158752441406
+      },
+      {
+        "nodeId": "212:61170",
+        "src": "/media/projects/onboarding/phone-212-61170.png",
+        "alt": "Башня — Tower",
+        "x": 863.25,
+        "y": 240.75,
+        "width": 227.5011749267578,
+        "height": 492.6158752441406
+      },
+      {
+        "nodeId": "212:61159",
+        "src": "/media/projects/onboarding/phone-212-61159.png",
+        "alt": "Башня — Success",
+        "x": 1120.5,
+        "y": 240.75,
+        "width": 227.5011749267578,
+        "height": 492.6158752441406
+      }
+    ],
+    "video": {
+      "nodeId": "212:61169",
+      "src": null,
+      "poster": "/media/projects/onboarding/tower-poster.png",
+      "x": 91.5,
+      "y": 240.75,
+      "width": 226.89450073242188,
+      "height": 492.6158752441406
+    }
+  },
+  {
+    "number": 13,
+    "nodeId": "402:13196",
+    "width": 1440,
+    "height": 799,
+    "src": "/media/projects/onboarding/screen-13.png",
+    "alt": "Игровые онбординги — экран 13"
+  },
+  {
+    "number": 14,
+    "nodeId": "402:13198",
+    "width": 1440,
+    "height": 759,
+    "src": "/media/projects/onboarding/screen-14.png",
+    "alt": "Игровые онбординги — экран 14"
+  },
+  {
+    "number": 15,
+    "nodeId": "402:13200",
+    "width": 1440,
+    "height": 1945,
+    "src": "/media/projects/onboarding/screen-15.png",
+    "alt": "Игровые онбординги — экран 15"
+  },
+  {
+    "number": 16,
+    "nodeId": "402:13202",
+    "width": 1440,
+    "height": 834,
+    "src": "/media/projects/onboarding/screen-16.png",
+    "alt": "Игровые онбординги — экран 16"
+  },
+  {
+    "number": 17,
+    "nodeId": "402:13204",
+    "width": 1440,
+    "height": 820.5,
+    "src": "/media/projects/onboarding/screen-17.png",
+    "alt": "Игровые онбординги — экран 17"
+  }
+]

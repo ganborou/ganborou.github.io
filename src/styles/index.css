@@ -4,6 +4,7 @@
 @font-face { font-family: "PP Mori"; src: url("../assets/fonts/PPMori-Semibold.otf") format("opentype"); font-weight: 600; font-style: normal; font-display: swap; }
 @font-face { font-family: "PP Mori"; src: url("../assets/fonts/PPMori-Italic.otf") format("opentype"); font-weight: 400; font-style: italic; font-display: swap; }
 @font-face { font-family: "PP Mori"; src: url("../assets/fonts/PPMori-SemiboldItalic.otf") format("opentype"); font-weight: 600; font-style: italic; font-display: swap; }
+@font-face { font-family: "Onboarding Inter"; src: url("../assets/fonts/Inter.ttf") format("truetype"); font-weight: 100 900; font-style: normal; font-display: swap; }
 
 @theme {
   --font-sans: "PP Mori", Arial, sans-serif;
@@ -184,6 +185,17 @@
   .case-page--animatics .case-year { color: rgb(15 49 66 / .4); }
   .case-page--animatics .case-header > * { min-width: 0; }
   .case-page--animatics .case-return { flex-wrap: wrap; }
+  .case-page--onboarding .case-title { max-width: 545px; white-space: pre-line; }
+  .case-page--onboarding .case-year { color: rgb(15 49 66 / .4); }
+  .case-page--onboarding .case-header > * { min-width: 0; }
+  .case-page--onboarding .case-return { flex-wrap: wrap; }
+  .onboarding-gallery { container-type: inline-size; }
+  .onboarding-concept { position: relative; overflow: hidden; font-family: "Onboarding Inter", Arial, sans-serif; font-optical-sizing: none; color: #000; }
+  .onboarding-concept-label { position: absolute; left: 6.354167%; font-size: 1.25cqw; line-height: normal; }
+  .onboarding-concept-title { position: absolute; left: 6.354167%; display: flex; align-items: center; color: #090b0b; font-size: 4.0625cqw; font-weight: 500; line-height: 2.1875cqw; }
+  .onboarding-concept-description { position: absolute; left: 59.0625%; width: 34.583333%; font-size: 1.25cqw; line-height: 1.666667cqw; white-space: pre-line; }
+  .onboarding-phone { position: absolute; overflow: hidden; border-radius: .833333cqw; }
+  .onboarding-gallery .onboarding-phone img { width: 100%; height: 100%; object-fit: fill; }
   .charmer-gallery { overflow: hidden; container-type: inline-size; }
   .charmer-video-panel { aspect-ratio: 1440 / 826; background: #747474; display: grid; place-items: center; }
   .charmer-video-panel .case-video { width: 72.222222%; aspect-ratio: 2; background: #000; }
@@ -214,6 +226,9 @@
   .case-page--animatics .case-header { padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
   .case-page--animatics .case-summary { padding-top: 24px; margin-right: 5px; }
   .case-page--animatics .case-year { margin-top: 0; }
+  .case-page--onboarding .case-header { height: 564px; padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
+  .case-page--onboarding .case-summary { padding-top: 24px; margin-right: 5px; }
+  .case-page--onboarding .case-year { margin-top: 0; }
   .case-page--digital-love .case-header { height: 564px; padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
   .case-page--digital-love .case-summary { padding-top: 24px; margin-right: 5px; }
   .case-page--digital-love .case-year { margin-top: 0; }

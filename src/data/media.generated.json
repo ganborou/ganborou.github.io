@@ -640,5 +640,185 @@
     "srcSet": "/media/projects/digital-love/footer-480.webp 480w, /media/projects/digital-love/footer-960.webp 960w, /media/projects/digital-love/footer-1440.webp 1440w, /media/projects/digital-love/footer-1920.webp 1920w",
     "width": 1920,
     "height": 388
+  },
+  "/media/projects/onboarding/screen-01.png": {
+    "src": "/media/projects/onboarding/screen-01-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-01-480.webp 480w, /media/projects/onboarding/screen-01-960.webp 960w, /media/projects/onboarding/screen-01-1440.webp 1440w, /media/projects/onboarding/screen-01-1920.webp 1920w, /media/projects/onboarding/screen-01-2880.webp 2880w",
+    "width": 2880,
+    "height": 1617
+  },
+  "/media/projects/onboarding/screen-02.png": {
+    "src": "/media/projects/onboarding/screen-02-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-02-480.webp 480w, /media/projects/onboarding/screen-02-960.webp 960w, /media/projects/onboarding/screen-02-1440.webp 1440w, /media/projects/onboarding/screen-02-1920.webp 1920w, /media/projects/onboarding/screen-02-2880.webp 2880w",
+    "width": 2880,
+    "height": 1830
+  },
+  "/media/projects/onboarding/screen-03.png": {
+    "src": "/media/projects/onboarding/screen-03-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-03-480.webp 480w, /media/projects/onboarding/screen-03-960.webp 960w, /media/projects/onboarding/screen-03-1440.webp 1440w, /media/projects/onboarding/screen-03-1920.webp 1920w, /media/projects/onboarding/screen-03-2880.webp 2880w",
+    "width": 2880,
+    "height": 2175
+  },
+  "/media/projects/onboarding/screen-04.png": {
+    "src": "/media/projects/onboarding/screen-04-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-04-480.webp 480w, /media/projects/onboarding/screen-04-960.webp 960w, /media/projects/onboarding/screen-04-1440.webp 1440w, /media/projects/onboarding/screen-04-1920.webp 1920w, /media/projects/onboarding/screen-04-2880.webp 2880w",
+    "width": 2880,
+    "height": 2775
+  },
+  "/media/projects/onboarding/screen-05.png": {
+    "src": "/media/projects/onboarding/screen-05-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-05-480.webp 480w, /media/projects/onboarding/screen-05-960.webp 960w, /media/projects/onboarding/screen-05-1440.webp 1440w, /media/projects/onboarding/screen-05-1920.webp 1920w, /media/projects/onboarding/screen-05-2880.webp 2880w",
+    "width": 2880,
+    "height": 2171
+  },
+  "/media/projects/onboarding/screen-06.png": {
+    "src": "/media/projects/onboarding/screen-06-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-06-480.webp 480w, /media/projects/onboarding/screen-06-960.webp 960w, /media/projects/onboarding/screen-06-1440.webp 1440w, /media/projects/onboarding/screen-06-1920.webp 1920w, /media/projects/onboarding/screen-06-2880.webp 2880w",
+    "width": 2880,
+    "height": 2130
+  },
+  "/media/projects/onboarding/screen-07.png": {
+    "src": "/media/projects/onboarding/screen-07-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-07-480.webp 480w, /media/projects/onboarding/screen-07-960.webp 960w, /media/projects/onboarding/screen-07-1440.webp 1440w, /media/projects/onboarding/screen-07-1920.webp 1920w, /media/projects/onboarding/screen-07-2880.webp 2880w",
+    "width": 2880,
+    "height": 1946
+  },
+  "/media/projects/onboarding/screen-08.png": {
+    "src": "/media/projects/onboarding/screen-08-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-08-480.webp 480w, /media/projects/onboarding/screen-08-960.webp 960w, /media/projects/onboarding/screen-08-1440.webp 1440w, /media/projects/onboarding/screen-08-1920.webp 1920w, /media/projects/onboarding/screen-08-2880.webp 2880w",
+    "width": 2880,
+    "height": 1598
+  },
+  "/media/projects/onboarding/screen-09.png": {
+    "src": "/media/projects/onboarding/screen-09-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-09-480.webp 480w, /media/projects/onboarding/screen-09-960.webp 960w, /media/projects/onboarding/screen-09-1440.webp 1440w, /media/projects/onboarding/screen-09-1920.webp 1920w, /media/projects/onboarding/screen-09-2880.webp 2880w",
+    "width": 2880,
+    "height": 1598
+  },
+  "/media/projects/onboarding/phone-212-60977.png": {
+    "src": "/media/projects/onboarding/phone-212-60977-227.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-60977-227.webp 227w",
+    "width": 227,
+    "height": 490
+  },
+  "/media/projects/onboarding/phone-212-61021.png": {
+    "src": "/media/projects/onboarding/phone-212-61021-227.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61021-227.webp 227w",
+    "width": 227,
+    "height": 490
+  },
+  "/media/projects/onboarding/phone-212-60999.jpeg": {
+    "src": "/media/projects/onboarding/phone-212-60999-227.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-60999-227.webp 227w",
+    "width": 227,
+    "height": 490
+  },
+  "/media/projects/onboarding/phone-212-61012.png": {
+    "src": "/media/projects/onboarding/phone-212-61012-227.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61012-227.webp 227w",
+    "width": 227,
+    "height": 490
+  },
+  "/media/projects/onboarding/catcher-poster.png": {
+    "src": "/media/projects/onboarding/catcher-poster-374.webp",
+    "srcSet": "/media/projects/onboarding/catcher-poster-374.webp 374w",
+    "width": 374,
+    "height": 812
+  },
+  "/media/projects/onboarding/phone-212-61031.png": {
+    "src": "/media/projects/onboarding/phone-212-61031-188.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61031-188.webp 188w",
+    "width": 188,
+    "height": 406
+  },
+  "/media/projects/onboarding/phone-212-61044.png": {
+    "src": "/media/projects/onboarding/phone-212-61044-188.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61044-188.webp 188w",
+    "width": 188,
+    "height": 406
+  },
+  "/media/projects/onboarding/phone-212-61080.png": {
+    "src": "/media/projects/onboarding/phone-212-61080-188.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61080-188.webp 188w",
+    "width": 188,
+    "height": 406
+  },
+  "/media/projects/onboarding/phone-212-61116.png": {
+    "src": "/media/projects/onboarding/phone-212-61116-188.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61116-188.webp 188w",
+    "width": 188,
+    "height": 406
+  },
+  "/media/projects/onboarding/phone-212-61035.png": {
+    "src": "/media/projects/onboarding/phone-212-61035-188.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61035-188.webp 188w",
+    "width": 188,
+    "height": 406
+  },
+  "/media/projects/onboarding/slot-poster.png": {
+    "src": "/media/projects/onboarding/slot-poster-374.webp",
+    "srcSet": "/media/projects/onboarding/slot-poster-374.webp 374w",
+    "width": 374,
+    "height": 812
+  },
+  "/media/projects/onboarding/phone-212-61154.png": {
+    "src": "/media/projects/onboarding/phone-212-61154-228.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61154-228.webp 228w",
+    "width": 228,
+    "height": 493
+  },
+  "/media/projects/onboarding/phone-212-61232.png": {
+    "src": "/media/projects/onboarding/phone-212-61232-228.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61232-228.webp 228w",
+    "width": 228,
+    "height": 493
+  },
+  "/media/projects/onboarding/phone-212-61170.png": {
+    "src": "/media/projects/onboarding/phone-212-61170-228.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61170-228.webp 228w",
+    "width": 228,
+    "height": 493
+  },
+  "/media/projects/onboarding/phone-212-61159.png": {
+    "src": "/media/projects/onboarding/phone-212-61159-228.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61159-228.webp 228w",
+    "width": 228,
+    "height": 493
+  },
+  "/media/projects/onboarding/tower-poster.png": {
+    "src": "/media/projects/onboarding/tower-poster-374.webp",
+    "srcSet": "/media/projects/onboarding/tower-poster-374.webp 374w",
+    "width": 374,
+    "height": 812
+  },
+  "/media/projects/onboarding/screen-13.png": {
+    "src": "/media/projects/onboarding/screen-13-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-13-480.webp 480w, /media/projects/onboarding/screen-13-960.webp 960w, /media/projects/onboarding/screen-13-1440.webp 1440w, /media/projects/onboarding/screen-13-1920.webp 1920w, /media/projects/onboarding/screen-13-2880.webp 2880w",
+    "width": 2880,
+    "height": 1598
+  },
+  "/media/projects/onboarding/screen-14.png": {
+    "src": "/media/projects/onboarding/screen-14-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-14-480.webp 480w, /media/projects/onboarding/screen-14-960.webp 960w, /media/projects/onboarding/screen-14-1440.webp 1440w, /media/projects/onboarding/screen-14-1920.webp 1920w, /media/projects/onboarding/screen-14-2880.webp 2880w",
+    "width": 2880,
+    "height": 1518
+  },
+  "/media/projects/onboarding/screen-15.png": {
+    "src": "/media/projects/onboarding/screen-15-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-15-480.webp 480w, /media/projects/onboarding/screen-15-960.webp 960w, /media/projects/onboarding/screen-15-1440.webp 1440w, /media/projects/onboarding/screen-15-1920.webp 1920w, /media/projects/onboarding/screen-15-2880.webp 2880w",
+    "width": 2880,
+    "height": 3890
+  },
+  "/media/projects/onboarding/screen-16.png": {
+    "src": "/media/projects/onboarding/screen-16-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-16-480.webp 480w, /media/projects/onboarding/screen-16-960.webp 960w, /media/projects/onboarding/screen-16-1440.webp 1440w, /media/projects/onboarding/screen-16-1920.webp 1920w, /media/projects/onboarding/screen-16-2880.webp 2880w",
+    "width": 2880,
+    "height": 1668
+  },
+  "/media/projects/onboarding/screen-17.png": {
+    "src": "/media/projects/onboarding/screen-17-2880.webp",
+    "srcSet": "/media/projects/onboarding/screen-17-480.webp 480w, /media/projects/onboarding/screen-17-960.webp 960w, /media/projects/onboarding/screen-17-1440.webp 1440w, /media/projects/onboarding/screen-17-1920.webp 1920w, /media/projects/onboarding/screen-17-2880.webp 2880w",
+    "width": 2880,
+    "height": 1641
   }
 }

@@ -759,5 +759,215 @@
     "sourcePath": "design-assets/media/projects/digital-love/footer.png",
     "publicPath": "/media/projects/digital-love/footer.webp",
     "lossless": true
+  },
+  {
+    "nodeId": "402:13143",
+    "originalPublicPath": "/media/projects/onboarding/screen-01.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-01.png",
+    "publicPath": "/media/projects/onboarding/screen-01.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13145",
+    "originalPublicPath": "/media/projects/onboarding/screen-02.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-02.png",
+    "publicPath": "/media/projects/onboarding/screen-02.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13147",
+    "originalPublicPath": "/media/projects/onboarding/screen-03.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-03.png",
+    "publicPath": "/media/projects/onboarding/screen-03.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13149",
+    "originalPublicPath": "/media/projects/onboarding/screen-04.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-04.png",
+    "publicPath": "/media/projects/onboarding/screen-04.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13151",
+    "originalPublicPath": "/media/projects/onboarding/screen-05.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-05.png",
+    "publicPath": "/media/projects/onboarding/screen-05.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13153",
+    "originalPublicPath": "/media/projects/onboarding/screen-06.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-06.png",
+    "publicPath": "/media/projects/onboarding/screen-06.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13155",
+    "originalPublicPath": "/media/projects/onboarding/screen-07.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-07.png",
+    "publicPath": "/media/projects/onboarding/screen-07.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13157",
+    "originalPublicPath": "/media/projects/onboarding/screen-08.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-08.png",
+    "publicPath": "/media/projects/onboarding/screen-08.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13193",
+    "originalPublicPath": "/media/projects/onboarding/screen-09.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-09.png",
+    "publicPath": "/media/projects/onboarding/screen-09.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:60977",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-60977.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-60977.png",
+    "publicPath": "/media/projects/onboarding/phone-212-60977.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61021",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61021.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61021.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61021.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:60999",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-60999.jpeg",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-60999.jpeg",
+    "publicPath": "/media/projects/onboarding/phone-212-60999.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61012",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61012.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61012.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61012.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:60976",
+    "originalPublicPath": "/media/projects/onboarding/catcher-poster.png",
+    "sourcePath": "design-assets/media/projects/onboarding/catcher-poster.png",
+    "publicPath": "/media/projects/onboarding/catcher-poster.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61031",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61031.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61031.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61031.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61044",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61044.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61044.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61044.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61080",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61080.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61080.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61080.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61116",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61116.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61116.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61116.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61035",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61035.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61035.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61035.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61152",
+    "originalPublicPath": "/media/projects/onboarding/slot-poster.png",
+    "sourcePath": "design-assets/media/projects/onboarding/slot-poster.png",
+    "publicPath": "/media/projects/onboarding/slot-poster.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61154",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61154.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61154.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61154.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61232",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61232.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61232.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61232.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61170",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61170.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61170.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61170.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61159",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-61159.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-61159.png",
+    "publicPath": "/media/projects/onboarding/phone-212-61159.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "212:61169",
+    "originalPublicPath": "/media/projects/onboarding/tower-poster.png",
+    "sourcePath": "design-assets/media/projects/onboarding/tower-poster.png",
+    "publicPath": "/media/projects/onboarding/tower-poster.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13195",
+    "originalPublicPath": "/media/projects/onboarding/screen-13.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-13.png",
+    "publicPath": "/media/projects/onboarding/screen-13.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13197",
+    "originalPublicPath": "/media/projects/onboarding/screen-14.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-14.png",
+    "publicPath": "/media/projects/onboarding/screen-14.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13199",
+    "originalPublicPath": "/media/projects/onboarding/screen-15.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-15.png",
+    "publicPath": "/media/projects/onboarding/screen-15.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13201",
+    "originalPublicPath": "/media/projects/onboarding/screen-16.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-16.png",
+    "publicPath": "/media/projects/onboarding/screen-16.webp",
+    "lossless": true
+  },
+  {
+    "nodeId": "402:13203",
+    "originalPublicPath": "/media/projects/onboarding/screen-17.png",
+    "sourcePath": "design-assets/media/projects/onboarding/screen-17.png",
+    "publicPath": "/media/projects/onboarding/screen-17.webp",
+    "lossless": true
   }
 ]

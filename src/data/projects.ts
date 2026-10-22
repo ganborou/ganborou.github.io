@@ -10,6 +10,14 @@ import digitalLoveImages from './digital-love-images.json'
 
 export const projects: Project[] = [
   {
+    slug: 'onboarding', category: 'product',
+    title: 'Разработка игровых онбордингов',
+    displayTitle: 'Разработка\nигровых\nонбордингов',
+    year: '2025',
+    summary: 'Исследование геймификаций в веб, аналитика их влияния на бизнес показатели и разработка, тестирование и внедрение встречающих механик для продукта Витрина подарков.',
+    images: [],
+  },
+  {
     slug: 'animatics', category: 'animation',
     title: 'Коллекция аниматиков для разработки и кейсов',
     displayTitle: 'Коллекция\nаниматиков\nдля разработки\nи кейсов',
