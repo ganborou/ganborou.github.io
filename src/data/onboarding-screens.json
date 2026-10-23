@@ -77,7 +77,7 @@
     "width": 1440,
     "height": 798.75,
     "title": "Ловец",
-    "description": "Подарки выпадают с верхней границы экрана  и исчезают при верном тапе. Тап по подарку привязан к смене числа в нижнем счетчике. По итогам ловли юзер получает доступ к Витрине. ",
+    "description": "Подарки выпадают с верхней границы экрана \nи исчезают при верном тапе. Тап по подарку привязан к смене числа в нижнем счетчике.\nПо итогам ловли юзер получает доступ к Витрине.\n",
     "background": "#e7ebf4",
     "labelY": 64.5,
     "titleY": 107.25,
@@ -104,7 +104,7 @@
       },
       {
         "nodeId": "212:60999",
-        "src": "/media/projects/onboarding/phone-212-60999.jpeg",
+        "src": "/media/projects/onboarding/phone-212-60999.png",
         "alt": "Ловец — Catch",
         "x": 864.451171875,
         "y": 244.5,
@@ -123,7 +123,7 @@
     ],
     "video": {
       "nodeId": "212:60976",
-      "src": null,
+      "src": "/media/projects/onboarding/lovec.mp4",
       "poster": "/media/projects/onboarding/catcher-poster.png",
       "x": 91.5,
       "y": 244.5,
@@ -192,7 +192,7 @@
     ],
     "video": {
       "nodeId": "212:61152",
-      "src": null,
+      "src": "/media/projects/onboarding/avtomat.mp4",
       "poster": "/media/projects/onboarding/slot-poster.png",
       "x": 91.5,
       "y": 329.25,
@@ -252,7 +252,7 @@
     ],
     "video": {
       "nodeId": "212:61169",
-      "src": null,
+      "src": "/media/projects/onboarding/bashnya.mp4",
       "poster": "/media/projects/onboarding/tower-poster.png",
       "x": 91.5,
       "y": 240.75,

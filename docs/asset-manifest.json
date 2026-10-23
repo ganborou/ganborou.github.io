@@ -33,7 +33,8 @@
     "nodeId": "164:1336",
     "originalPublicPath": "/media/projects/special-marathon.png",
     "sourcePath": "design-assets/media/projects/special-marathon.png",
-    "publicPath": "/media/projects/special-marathon.webp"
+    "publicPath": "/media/projects/special-marathon-20261023.webp",
+    "exportScale": 3
   },
   {
     "nodeId": "164:1330",
@@ -839,8 +840,8 @@
   },
   {
     "nodeId": "212:60999",
-    "originalPublicPath": "/media/projects/onboarding/phone-212-60999.jpeg",
-    "sourcePath": "design-assets/media/projects/onboarding/phone-212-60999.jpeg",
+    "originalPublicPath": "/media/projects/onboarding/phone-212-60999.png",
+    "sourcePath": "design-assets/media/projects/onboarding/phone-212-60999.png",
     "publicPath": "/media/projects/onboarding/phone-212-60999.webp",
     "lossless": true
   },

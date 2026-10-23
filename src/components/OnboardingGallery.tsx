@@ -1,6 +1,10 @@
 import type { CSSProperties } from 'react'
 import screens from '../data/onboarding-screens.json'
 import { PortfolioImage } from './PortfolioImage'
+import { OnboardingVideo } from './OnboardingVideo'
+import generatedMedia from '../data/media.generated.json'
+
+const media: Record<string, { src: string }> = generatedMedia
 
 type Bounds = { x: number; y: number; width: number; height: number }
 
@@ -43,10 +47,10 @@ export function OnboardingGallery() {
         />
       </div>)}
       {screen.video && <div className="onboarding-phone onboarding-video" style={placement(screen.video, screen.height)}>
-        <PortfolioImage
-          src={screen.video.poster} alt={`${screen.title} — превью анимации`}
-          width={screen.video.width} height={screen.video.height}
-          sizes={`${screen.video.width / 1440 * 100}vw`} loading="lazy" decoding="async"
+        <OnboardingVideo
+          src={screen.video.src}
+          poster={media[screen.video.poster].src}
+          title={`${screen.title} — анимация игрового онбординга`}
         />
       </div>}
     </section>)}

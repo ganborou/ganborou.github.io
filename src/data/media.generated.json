@@ -24,10 +24,10 @@
     "height": 676
   },
   "/media/projects/special-marathon.png": {
-    "src": "/media/projects/special-marathon-443.webp",
-    "srcSet": "/media/projects/special-marathon-443.webp 443w",
-    "width": 443,
-    "height": 528
+    "src": "/media/projects/special-marathon-20261023-1329.webp",
+    "srcSet": "/media/projects/special-marathon-20261023-443.webp 443w, /media/projects/special-marathon-20261023-886.webp 886w, /media/projects/special-marathon-20261023-1329.webp 1329w",
+    "width": 1329,
+    "height": 1584
   },
   "/media/projects/special-lesson.png": {
     "src": "/media/projects/special-lesson-1329.webp",
@@ -696,28 +696,22 @@
     "height": 1598
   },
   "/media/projects/onboarding/phone-212-60977.png": {
-    "src": "/media/projects/onboarding/phone-212-60977-227.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-60977-227.webp 227w",
-    "width": 227,
-    "height": 490
+    "src": "/media/projects/onboarding/phone-212-60977-453.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-60977-453.webp 453w",
+    "width": 453,
+    "height": 980
   },
   "/media/projects/onboarding/phone-212-61021.png": {
-    "src": "/media/projects/onboarding/phone-212-61021-227.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61021-227.webp 227w",
-    "width": 227,
-    "height": 490
-  },
-  "/media/projects/onboarding/phone-212-60999.jpeg": {
-    "src": "/media/projects/onboarding/phone-212-60999-227.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-60999-227.webp 227w",
-    "width": 227,
-    "height": 490
+    "src": "/media/projects/onboarding/phone-212-61021-453.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61021-453.webp 453w",
+    "width": 453,
+    "height": 980
   },
   "/media/projects/onboarding/phone-212-61012.png": {
-    "src": "/media/projects/onboarding/phone-212-61012-227.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61012-227.webp 227w",
-    "width": 227,
-    "height": 490
+    "src": "/media/projects/onboarding/phone-212-61012-453.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61012-453.webp 453w",
+    "width": 453,
+    "height": 980
   },
   "/media/projects/onboarding/catcher-poster.png": {
     "src": "/media/projects/onboarding/catcher-poster-374.webp",
@@ -726,34 +720,34 @@
     "height": 812
   },
   "/media/projects/onboarding/phone-212-61031.png": {
-    "src": "/media/projects/onboarding/phone-212-61031-188.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61031-188.webp 188w",
-    "width": 188,
-    "height": 406
+    "src": "/media/projects/onboarding/phone-212-61031-375.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61031-375.webp 375w",
+    "width": 375,
+    "height": 811
   },
   "/media/projects/onboarding/phone-212-61044.png": {
-    "src": "/media/projects/onboarding/phone-212-61044-188.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61044-188.webp 188w",
-    "width": 188,
-    "height": 406
+    "src": "/media/projects/onboarding/phone-212-61044-375.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61044-375.webp 375w",
+    "width": 375,
+    "height": 811
   },
   "/media/projects/onboarding/phone-212-61080.png": {
-    "src": "/media/projects/onboarding/phone-212-61080-188.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61080-188.webp 188w",
-    "width": 188,
-    "height": 406
+    "src": "/media/projects/onboarding/phone-212-61080-375.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61080-375.webp 375w",
+    "width": 375,
+    "height": 811
   },
   "/media/projects/onboarding/phone-212-61116.png": {
-    "src": "/media/projects/onboarding/phone-212-61116-188.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61116-188.webp 188w",
-    "width": 188,
-    "height": 406
+    "src": "/media/projects/onboarding/phone-212-61116-375.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61116-375.webp 375w",
+    "width": 375,
+    "height": 811
   },
   "/media/projects/onboarding/phone-212-61035.png": {
-    "src": "/media/projects/onboarding/phone-212-61035-188.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61035-188.webp 188w",
-    "width": 188,
-    "height": 406
+    "src": "/media/projects/onboarding/phone-212-61035-375.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61035-375.webp 375w",
+    "width": 375,
+    "height": 811
   },
   "/media/projects/onboarding/slot-poster.png": {
     "src": "/media/projects/onboarding/slot-poster-374.webp",
@@ -762,28 +756,28 @@
     "height": 812
   },
   "/media/projects/onboarding/phone-212-61154.png": {
-    "src": "/media/projects/onboarding/phone-212-61154-228.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61154-228.webp 228w",
-    "width": 228,
-    "height": 493
+    "src": "/media/projects/onboarding/phone-212-61154-455.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61154-455.webp 455w",
+    "width": 455,
+    "height": 986
   },
   "/media/projects/onboarding/phone-212-61232.png": {
-    "src": "/media/projects/onboarding/phone-212-61232-228.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61232-228.webp 228w",
-    "width": 228,
-    "height": 493
+    "src": "/media/projects/onboarding/phone-212-61232-455.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61232-455.webp 455w",
+    "width": 455,
+    "height": 986
   },
   "/media/projects/onboarding/phone-212-61170.png": {
-    "src": "/media/projects/onboarding/phone-212-61170-228.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61170-228.webp 228w",
-    "width": 228,
-    "height": 493
+    "src": "/media/projects/onboarding/phone-212-61170-455.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61170-455.webp 455w",
+    "width": 455,
+    "height": 986
   },
   "/media/projects/onboarding/phone-212-61159.png": {
-    "src": "/media/projects/onboarding/phone-212-61159-228.webp",
-    "srcSet": "/media/projects/onboarding/phone-212-61159-228.webp 228w",
-    "width": 228,
-    "height": 493
+    "src": "/media/projects/onboarding/phone-212-61159-455.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-61159-455.webp 455w",
+    "width": 455,
+    "height": 986
   },
   "/media/projects/onboarding/tower-poster.png": {
     "src": "/media/projects/onboarding/tower-poster-374.webp",
@@ -820,5 +814,11 @@
     "srcSet": "/media/projects/onboarding/screen-17-480.webp 480w, /media/projects/onboarding/screen-17-960.webp 960w, /media/projects/onboarding/screen-17-1440.webp 1440w, /media/projects/onboarding/screen-17-1920.webp 1920w, /media/projects/onboarding/screen-17-2880.webp 2880w",
     "width": 2880,
     "height": 1641
+  },
+  "/media/projects/onboarding/phone-212-60999.png": {
+    "src": "/media/projects/onboarding/phone-212-60999-453.webp",
+    "srcSet": "/media/projects/onboarding/phone-212-60999-453.webp 453w",
+    "width": 453,
+    "height": 980
   }
 }
