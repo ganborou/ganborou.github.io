@@ -27,7 +27,7 @@ export const categories: Category[] = [
     description: ['Работа над проектами включала в себя проведение итерационных AB-тестов, пользовательские интервью и проверку гипотез. Решения продиктованы не эстетическими соображениями, а потребностями продукта и людей, которые им пользуются.'],
     projects: [
       { slug: 'onboarding', title: 'Геймифицированные онбординги для Витрины подарков', image: media + 'product-onboarding.png', available: true },
-      { slug: 'redesign', title: 'Редизайн Витрины подарков и внедрение дизайн-системы', image: media + 'product-redesign.png' },
+      { slug: 'redesign', title: 'Редизайн Витрины подарков и внедрение дизайн-системы', image: media + 'product-redesign.svg', available: true },
     ],
   },
   {

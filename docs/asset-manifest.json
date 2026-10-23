@@ -50,9 +50,9 @@
   },
   {
     "nodeId": "169:1665",
-    "originalPublicPath": "/media/projects/product-redesign.png",
-    "sourcePath": "design-assets/media/projects/product-redesign.png",
-    "publicPath": "/media/projects/product-redesign.webp"
+    "originalPublicPath": "/media/projects/product-redesign.svg",
+    "sourcePath": "public/media/projects/product-redesign.svg",
+    "publicPath": "/media/projects/product-redesign.svg"
   },
   {
     "nodeId": "169:1883",
@@ -969,6 +969,48 @@
     "originalPublicPath": "/media/projects/onboarding/screen-17.png",
     "sourcePath": "design-assets/media/projects/onboarding/screen-17.png",
     "publicPath": "/media/projects/onboarding/screen-17.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/redesign/1.png",
+    "sourcePath": "design-assets/media/projects/redesign/1.png",
+    "publicPath": "/media/projects/redesign/1.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/redesign/2.png",
+    "sourcePath": "design-assets/media/projects/redesign/2.png",
+    "publicPath": "/media/projects/redesign/2.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/redesign/3.png",
+    "sourcePath": "design-assets/media/projects/redesign/3.png",
+    "publicPath": "/media/projects/redesign/3.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/redesign/4.png",
+    "sourcePath": "design-assets/media/projects/redesign/4.png",
+    "publicPath": "/media/projects/redesign/4.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/redesign/5.png",
+    "sourcePath": "design-assets/media/projects/redesign/5.png",
+    "publicPath": "/media/projects/redesign/5.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/redesign/6.png",
+    "sourcePath": "design-assets/media/projects/redesign/6.png",
+    "publicPath": "/media/projects/redesign/6.webp",
+    "lossless": true
+  },
+  {
+    "originalPublicPath": "/media/projects/redesign/7.png",
+    "sourcePath": "design-assets/media/projects/redesign/7.png",
+    "publicPath": "/media/projects/redesign/7.webp",
     "lossless": true
   }
 ]

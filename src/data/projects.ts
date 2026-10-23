@@ -7,8 +7,16 @@ import posterImages from './poster-experiments-images.json'
 import partyImages from './party-posters-images.json'
 import lovemachineImages from './lovemachine-images.json'
 import digitalLoveImages from './digital-love-images.json'
+import redesignImages from './redesign-images.json'
 
 export const projects: Project[] = [
+  {
+    slug: 'redesign', category: 'product',
+    title: 'Редизайн продукта и внедрение дизайн-системы',
+    year: '2026',
+    summary: 'Процесс редизайна ключевого продукта от проведения первичных тестов с MVP, до полноценного редизайна и внедрения дизайн-системы.',
+    images: redesignImages,
+  },
   {
     slug: 'onboarding', category: 'product',
     title: 'Разработка игровых онбордингов',

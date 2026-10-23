@@ -187,6 +187,10 @@
   .case-page--animatics .case-header > * { min-width: 0; }
   .case-page--animatics .case-return { flex-wrap: wrap; }
   .case-page--onboarding .case-title { max-width: 545px; white-space: pre-line; }
+  .case-page--redesign .case-title { max-width: 545px; }
+  .case-page--redesign .case-year { color: rgb(15 49 66 / .4); }
+  .case-page--redesign .case-header > * { min-width: 0; }
+  .case-page--redesign .case-return { flex-wrap: wrap; }
   .case-page--onboarding .case-year { color: rgb(15 49 66 / .4); }
   .case-page--onboarding .case-header > * { min-width: 0; }
   .case-page--onboarding .case-return { flex-wrap: wrap; }
@@ -237,6 +241,9 @@
   .case-page--animatics .case-summary { padding-top: 24px; margin-right: 5px; }
   .case-page--animatics .case-year { margin-top: 0; }
   .case-page--onboarding .case-header { height: 564px; padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
+  .case-page--redesign .case-header { height: 564px; padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
+  .case-page--redesign .case-summary { padding-top: 24px; margin-right: 5px; }
+  .case-page--redesign .case-year { margin-top: 0; }
   .case-page--onboarding .case-summary { padding-top: 24px; margin-right: 5px; }
   .case-page--onboarding .case-year { margin-top: 0; }
   .case-page--digital-love .case-header { height: 564px; padding-top: 96px; padding-bottom: 57.8px; grid-template-rows: 1fr auto; }
