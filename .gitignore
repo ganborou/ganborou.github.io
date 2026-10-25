@@ -1,0 +1,21 @@
+# Dependencies and build output
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+
+# Local environment
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs and reports
+*.log
+coverage/
+playwright-report/
+test-results/
+
+# OS and editor files
+.DS_Store
+.idea/
